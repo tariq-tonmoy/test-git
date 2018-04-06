@@ -8,5 +8,6 @@ int main(){
 	cout<<"Hello World"<<endl;
 	cout<<"The value is: "<<i+12<<endl;
 
+	cout << "Good Bye" << endl;
 	return 0;
 }
