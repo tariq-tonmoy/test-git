@@ -1,13 +1,11 @@
 #include<iostream>
 
-using namespace std;
-
 int main(){
 	int i = 1;
 
-	cout<<"Hello World"<<endl;
-	cout<<"The value is: "<<i+12<<endl;
+	std::cout<<"Hello World"<<std::endl;
+	std::cout<<"The value is: "<<i+12<<std::endl;
 
-	cout << "Good Bye" << endl;
+	std::cout << "Good Bye" << std::endl;
 	return 0;
 }
