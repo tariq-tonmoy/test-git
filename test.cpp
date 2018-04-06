@@ -1,7 +1,7 @@
 #include<iostream>
-
+#define INC 12
 int foo(int param) {
-	param = param + 12;
+	param = param + INC;
 	return param;
 }
 
